@@ -17,3 +17,8 @@ Pour utiliser le projet, [télécharger le dataset](https://www.kaggle.com/datas
 Et extraire les fichiers .csv dans un dossier nommé `financial_transactions`.  
 Les fichiers .json ne sont pas utiles pour ce projet.  
 Note: Le fichier `transactions_data.csv` contenant ~13.000.000 lignes, nous avons décidés de le tronquer et de ne garder que les 100.000 premières.
+
+## Installation
+```
+pip install pandas
+```
