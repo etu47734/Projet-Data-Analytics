@@ -11,7 +11,7 @@
 │   ├── transactions_data.csv  
 └── init.ipynb
 ```
-Pour utiliser le projet, [télécharger le dataset modifié](https://github.com/etu47734/Projet-Data-Analytics/blob/main/financial_transactions.zip) depuis github
+Pour utiliser le projet, [télécharger le dataset modifié](https://henallux-my.sharepoint.com/:x:/g/personal/etu47734_henallux_be/EVvNvbXaKRBFlcmoYAJD5akBuZ-e5XhHCQBhQFnbFR83vQ?e=AaOMES) depuis github
 Et extraire le fichier .csv dans un dossier nommé `financial_transactions`.  
 Les fichiers .json ne sont pas utiles pour ce projet.  
 Note: Le fichier `transactions_data.csv` contenant ~13.000.000 lignes, nous avons décidés de le tronquer et de ne garder que celles qui concernent l'année 2010 (1.240.881 premières)
