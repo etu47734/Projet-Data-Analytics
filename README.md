@@ -8,10 +8,8 @@
 ```
 .  
 ├── financial_transactions/  
-│   ├── cards_data.csv  
 │   ├── transactions_data.csv  
-│   └── users_data.csv  
-└── fichiers pythons
+└── init.ipynb
 ```
 Pour utiliser le projet, [télécharger le dataset modifié](https://github.com/etu47734/Projet-Data-Analytics/blob/main/financial_transactions.zip) depuis github
 Et extraire le fichier .csv dans un dossier nommé `financial_transactions`.  
